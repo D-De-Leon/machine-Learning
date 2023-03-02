@@ -2,7 +2,7 @@
 
 Welcome to my Machine Learning Project Showcase repository! Here, you will find a collection of projects that showcase my skills and experience in the field of machine learning.
 
-Projects
+##Projects
 The following is a list of projects included in this repository:
 
 Project 1: This project involves a classification problem where I have used a Random Forest algorithm to predict whether a customer will buy a product or not based on their browsing history.
